@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVNEncryptedAuth", "SVNEncryptedAuth\SVNEncryptedAuth.csproj", "{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVNEncryptedAuthHelper", "SVNEncryptedAuthHelper\SVNEncryptedAuthHelper.csproj", "{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SVNEncryptedPasswordGen", "SVNEncryptedPasswordGen\SVNEncryptedPasswordGen.csproj", "{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Debug|x86.ActiveCfg = Debug|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Debug|x86.Build.0 = Debug|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Release|Any CPU.ActiveCfg = Release|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Release|x86.ActiveCfg = Release|x86
+		{FE8BA3EC-9EFA-4F4F-AB54-F464091F4D1F}.Release|x86.Build.0 = Release|x86
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Debug|x86.Build.0 = Debug|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4CC01FF2-6AE7-437D-BD8C-9F7C0180418D}.Release|x86.ActiveCfg = Release|Any CPU
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Debug|x86.ActiveCfg = Debug|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Debug|x86.Build.0 = Debug|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Release|Any CPU.ActiveCfg = Release|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Release|x86.ActiveCfg = Release|x86
+		{0CC202F1-0A20-47BF-82C5-E7ABDA99243D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
