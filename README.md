@@ -6,10 +6,9 @@ This is a kind of a hack, written with the help of the EasyHook binaries in orde
 
 So far it's been tested only in Windows 7 x6\. with official subversion binaries as of date (1st September 2014).
 
-* * *
-Simply start svnserve.exe first and then run SVNEncryptedAuth.exe, it will look for svnserve.exe's process ID and attach to it, then it will wait until svnserve.exe is closed/killed/etc and terminates execution.
+## Usage
 
----
+Simply start svnserve.exe first and then run SVNEncryptedAuth.exe, it will look for svnserve.exe's process ID and attach to it, then it will wait until svnserve.exe is closed/killed/etc and terminates execution.
 
 ## Important notes
 
