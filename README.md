@@ -12,7 +12,7 @@ Simply start svnserve.exe first and then run SVNEncryptedAuth.exe, it will look 
 
 ## Important notes
 
-You **_*should*_** change the passwords shown (p$ssw0rd and p$ssw0rdv3ct0r1\. located in these files:
+You **_*should*_** change the passwords shown (p$ssw0rd and p$ssw0rdv3ct0r11) located in these files:
 
     SVNEncryptedAuthHelper\SVNEncryptedAuthHelper.cs
     SVNEncryptedAuthHelper\Crypto.cs
