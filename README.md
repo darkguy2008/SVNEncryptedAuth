@@ -16,7 +16,7 @@ You **_*should*_** change the passwords shown (p$ssw0rd and p$ssw0rdv3ct0r1\. lo
 
     SVNEncryptedAuthHelper\SVNEncryptedAuthHelper.cs
     SVNEncryptedAuthHelper\Crypto.cs
-    SVNEncryptedPasswordGen\Program.cs (optional)
+    SVNEncryptedPasswordGen\Program.cs (optional, only if you wish to use this app)
 
 I bet there is room for improvements, but the app works fine and dandy as-is. I've also included a small console app to generate passwords with masking in case you need to tell someone else to input a password by themselves while avoiding giving it to you directly (some workplaces are very restrictive about passwords, even if you trust each other).
 
